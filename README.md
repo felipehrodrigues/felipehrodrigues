@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">## 👋 Olá! Eu sou o Felipe<br><br>🎓 Formado em Administração e atualmente estudante de Análise e Desenvolvimento de Sistemas  <br>💻 Apaixonado por tecnologia e sempre buscando unir lógica e criatividade no desenvolvimento de soluções  <br>📚 Focado em **JavaScript**, **HTML**, **CSS**, **React**, **Python** e **Java** <br>🎯 Objetivo: Criar soluções que façam a diferença, aproveitando minha bagagem administrativa para entregar mais valor  <br>🎲 FunFact: Tenho um Akita chamado **Shinoda**, nomeado em homenagem ao Mike Shinoda do Linkin Park 🤘🐕<br><br>📫 Me chame para trocar ideia ou colaborar em projetos: **feliperodriguese@gmail.com**</p>
+<p align="left">## 👋 Olá! Eu sou o Felipe<br><br>🎓 Formado em Administração e atualmente estudante de Análise e Desenvolvimento de Sistemas  <br>💻 Apaixonado por tecnologia e sempre buscando unir lógica e criatividade no desenvolvimento de soluções  <br>📚 Focado em **JavaScript**, **HTML**, **CSS**, **React**, **Python** e **Java** <br>🎯 Objetivo: Criar soluções que façam a diferença, aproveitando minha bagagem administrativa para entregar mais valor  <br> <br>📫 Me chame para trocar ideia ou colaborar em projetos: **feliperodriguese@gmail.com**</p>
 
 ###
 
