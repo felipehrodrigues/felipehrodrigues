@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
+<h2 align="left"> Entre em contato comigo em: </h2>
 
 
 <div align="left">
