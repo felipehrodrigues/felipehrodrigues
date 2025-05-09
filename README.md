@@ -64,10 +64,5 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/e4/b0/77/e4b07785514b6ac7e71a117258f29d67.jpg"  />
-</div>
 
 ###
